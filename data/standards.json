@@ -1,37 +1,37 @@
 [
   {
     "id": "FAS 4",
-    "title_en": "Currency Translation",
-    "title_ar": "ترجمة العملات",
-    "description_en": "Standard for recording foreign currency transactions and translating financial statements.",
-    "description_ar": "معيار لتسجيل معاملات العملات الأجنبية وترجمة البيانات المالية."
+    "title_en": "Musharaka Financing",
+    "title_ar": "التمويل بالمشاركة",
+    "description_en": "A form of partnership between the Islamic Financial Institution (IFI) and its clients whereby each party contributes to the capital of partnership in equal or varying degrees to establish a new project or share in an existing one, and whereby each of the parties becomes an owner of the capital on a permanent or declining basis and shall have his due share of profits. However, losses are shared in proportion to the contributed capital.",
+    "description_ar": "شكل من أشكال الشراكة بين المؤسسة المالية الإسلامية وعملائها حيث يساهم كل طرف في رأس مال الشراكة بدرجات متساوية أو متفاوتة لإنشاء مشروع جديد أو المشاركة في مشروع قائم، وحيث يصبح كل من الطرفين مالكًا لرأس المال على أساس دائم أو متناقص ويحصل على حصته المستحقة من الأرباح. ومع ذلك، يتم تقاسم الخسائر بنسبة رأس المال المساهم به."
   },
   {
     "id": "FAS 7",
-    "title_en": "Investments in Real Estate",
-    "title_ar": "الاستثمارات العقارية",
-    "description_en": "Standard for accounting for investments in properties for rental or capital appreciation.",
-    "description_ar": "معيار محاسبة الاستثمارات في العقارات للتأجير أو زيادة رأس المال."
+    "title_en": "Salam and Parallel Salam",
+    "title_ar": "السلم والسلم الموازي",
+    "description_en": "Salam is defined as the purchase of a commodity for deferred delivery in exchange for immediate payment according to specified conditions, or sale of a commodity for deferred delivery in exchange for immediate payment. Parallel Salam is a transaction whereby the seller in a Salam contract enters into another Salam contract with a third party to acquire goods of similar specifications.",
+    "description_ar": "السلم هو شراء سلعة مؤجلة التسليم مقابل دفع فوري وفقًا لشروط محددة، أو بيع سلعة مؤجلة التسليم مقابل دفع فوري. السلم الموازي هو معاملة يدخل فيها البائع في عقد سلم في عقد سلم آخر مع طرف ثالث للحصول على سلع بمواصفات مماثلة."
   },
   {
     "id": "FAS 10",
     "title_en": "Istisna'a and Parallel Istisna'a",
     "title_ar": "الاستصناع والاستصناع الموازي",
-    "description_en": "Standard for manufacturing contracts where payment is made in installments.",
-    "description_ar": "معيار لعقود التصنيع حيث يتم الدفع على أقساط."
+    "description_en": "Istisna'a is a sale contract whereby the seller undertakes to manufacture the goods for the buyer according to the specifications prescribed in the contract, in exchange for an agreed price. Parallel Istisna'a is when the seller enters into a second Istisna'a contract to fulfill contractual obligations in the first contract.",
+    "description_ar": "الاستصناع هو عقد بيع يتعهد فيه البائع بتصنيع السلع للمشتري وفقًا للمواصفات المحددة في العقد، مقابل سعر متفق عليه. الاستصناع الموازي هو عندما يدخل البائع في عقد استصناع ثانٍ للوفاء بالتزامات تعاقدية في العقد الأول."
   },
   {
     "id": "FAS 28",
-    "title_en": "Ijarah and Ijarah Muntahia Bittamleek",
-    "title_ar": "الإجارة والإجارة المنتهية بالتمليك",
-    "description_en": "Standard for lease agreements and leases ending with ownership transfer.",
-    "description_ar": "معيار لاتفاقيات الإيجار والإيجارات المنتهية بنقل الملكية."
+    "title_en": "Murabaha and Other Deferred Payment Sales",
+    "title_ar": "المرابحة وبيوع الدفع المؤجل الأخرى",
+    "description_en": "Murabaha is a sale of goods with an agreed upon profit mark-up on the cost. This could be on a spot basis or deferred payment basis. The standard covers accounting for Murabaha transactions including Murabaha to the purchase orderer, where the purchaser makes an order and confirms with a promise to purchase the specified subject matter on agreed Murabaha terms.",
+    "description_ar": "المرابحة هي بيع السلع مع هامش ربح متفق عليه على التكلفة. يمكن أن يكون ذلك على أساس فوري أو على أساس الدفع المؤجل. يغطي المعيار المحاسبة لمعاملات المرابحة بما في ذلك المرابحة للآمر بالشراء، حيث يقدم المشتري طلبًا ويؤكده بوعد بشراء الموضوع المحدد وفقًا لشروط المرابحة المتفق عليها."
   },
   {
     "id": "FAS 32",
-    "title_en": "Investment Agency (Al-Wakala Bi Al-Istithmar)",
-    "title_ar": "وكالة الاستثمار (الوكالة بالاستثمار)",
-    "description_en": "Standard for investment agency relationships between investors and agents.",
-    "description_ar": "معيار لعلاقات وكالة الاستثمار بين المستثمرين والوكلاء."
+    "title_en": "Ijarah and Ijarah Muntahia Bittamleek",
+    "title_ar": "الإجارة والإجارة المنتهية بالتمليك",
+    "description_en": "Ijarah is the leasing of property pursuant to a contract under which a specified permissible benefit in the form of a usufruct is obtained for a specified period in return for a specified consideration. Ijarah Muntahia Bittamleek is a hybrid Ijarah arrangement which includes a promise resulting in transfer of ownership of the underlying asset to the lessee, either after the end of the Ijarah period or by stages during the term of the contract.",
+    "description_ar": "الإجارة هي تأجير ممتلكات بموجب عقد يتم بموجبه الحصول على منفعة محددة مسموح بها في شكل حق انتفاع لفترة محددة مقابل مقابل محدد. الإجارة المنتهية بالتمليك هي ترتيب إجارة هجين يتضمن وعدًا ينتج عنه نقل ملكية الأصل الأساسي إلى المستأجر، إما بعد نهاية فترة الإجارة أو على مراحل خلال مدة العقد."
   }
 ]

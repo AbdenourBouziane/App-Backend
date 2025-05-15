@@ -1,37 +1,37 @@
 [
   {
     "standard_id": "FAS 4",
-    "title_en": "Converting USD to EUR for international trade",
-    "title_ar": "تحويل الدولار الأمريكي إلى اليورو للتجارة الدولية",
-    "scenario_en": "Al Baraka Bank needs to record a transaction where they purchased machinery from a European supplier:\n- Purchase price: €500,000\n- Exchange rate on purchase date: 1 EUR = 1.10 USD\n- Exchange rate on payment date (30 days later): 1 EUR = 1.12 USD\nHow should this be recorded in the books?",
-    "scenario_ar": "يحتاج بنك البركة إلى تسجيل معاملة شراء آلات من مورد أوروبي:\n- سعر الشراء: 500,000 يورو\n- سعر الصرف في تاريخ الشراء: 1 يورو = 1.10 دولار أمريكي\n- سعر الصرف في تاريخ الدفع (بعد 30 يومًا): 1 يورو = 1.12 دولار أمريكي\nكيف يجب تسجيل هذا في الدفاتر؟"
+    "title_en": "Musharaka Financing for a Manufacturing Company",
+    "title_ar": "تمويل مشاركة لشركة تصنيع",
+    "scenario_en": "Noon IFI entered into a constant Musharaka with a customer by investing USD 1,000,000 in a bottled water manufacturing company whereas the customer invested USD 500,000. The partners agreed to share the profit in the ratio of 50% for the IFI and 50% for the customer. The venture earned profits of USD 10,000 in the first year and incurred losses of USD 20,000 in the second year. The Musharakah was terminated after the second year following the loss.\n\nHow should the IFI account for:\n1. The initial Musharaka financing\n2. The profit in the first year\n3. The loss in the second year\n4. The final settlement upon termination",
+    "scenario_ar": "دخل بنك نون في مشاركة ثابتة مع عميل من خلال استثمار 1,000,000 دولار أمريكي في شركة لتصنيع المياه المعبأة بينما استثمر العميل 500,000 دولار أمريكي. اتفق الشركاء على تقاسم الربح بنسبة 50٪ للمؤسسة المالية الإسلامية و 50٪ للعميل. حقق المشروع أرباحًا قدرها 10,000 دولار أمريكي في السنة الأولى وتكبد خسائر قدرها 20,000 دولار أمريكي في السنة الثانية. تم إنهاء المشاركة بعد السنة الثانية بعد الخسارة.\n\nكيف ينبغي للمؤسسة المالية الإسلامية أن تحاسب عن:\n1. تمويل المشاركة الأولي\n2. الربح في السنة الأولى\n3. الخسارة في السنة الثانية\n4. التسوية النهائية عند الإنهاء"
   },
   {
     "standard_id": "FAS 7",
-    "title_en": "Acquiring an office building for rental",
-    "title_ar": "الاستحواذ على مبنى مكتبي للتأجير",
-    "scenario_en": "Islamic Finance House purchased a commercial building:\n- Purchase price: $5,000,000\n- Legal fees: $50,000\n- Building improvements: $200,000\n- Expected rental income: $400,000 per year\nHow should this investment be recorded and measured?",
-    "scenario_ar": "اشترى بيت التمويل الإسلامي مبنى تجاري:\n- سعر الشراء: 5,000,000 دولار\n- الرسوم القانونية: 50,000 دولار\n- تحسينات المبنى: 200,000 دولار\n- الدخل المتوقع من الإيجار: 400,000 دولار سنويًا\nكيف يجب تسجيل وقياس هذا الاستثمار؟"
+    "title_en": "Salam Contract for Agricultural Products",
+    "title_ar": "عقد سلم للمنتجات الزراعية",
+    "scenario_en": "Hilal Islamic Bank entered into a Salam Contract with Golden Barley Company to purchase 50,000 Metric Tons of Barley at an agreed price of USD 100,000 to be delivered on May 15, 2024. Subsequently, the bank signed a Parallel Salam contract with Silver Barley & Co. to supply 50,000 Metric Tons of Barley (Salam Goods) at a price of USD 105,000. Golden Barley delivered the Salam Goods to Hilal Islamic Bank as per the agreed date. Under Parallel Salam, the goods were sold to Silver Barley & Co. on May 20, 2024.\n\nHow should the bank account for:\n1. The initial Salam transaction with Golden Barley Company\n2. The Parallel Salam transaction with Silver Barley & Co.\n3. The receipt of Salam goods under the first Salam\n4. The sale of goods under Parallel Salam",
+    "scenario_ar": "دخل بنك الهلال الإسلامي في عقد سلم مع شركة جولدن بارلي لشراء 50,000 طن متري من الشعير بسعر متفق عليه قدره 100,000 دولار أمريكي على أن يتم التسليم في 15 مايو 2024. وبعد ذلك، وقع البنك عقد سلم موازي مع شركة سيلفر بارلي لتوريد 50,000 طن متري من الشعير (بضائع السلم) بسعر 105,000 دولار أمريكي. قامت شركة جولدن بارلي بتسليم بضائع السلم إلى بنك الهلال الإسلامي حسب التاريخ المتفق عليه. وبموجب السلم الموازي، تم بيع البضائع إلى شركة سيلفر بارلي في 20 مايو 2024.\n\nكيف ينبغي للبنك أن يحاسب عن:\n1. معاملة السلم الأولية مع شركة جولدن بارلي\n2. معاملة السلم الموازي مع شركة سيلفر بارلي\n3. استلام بضائع السلم بموجب السلم الأول\n4. بيع البضائع بموجب السلم الموازي"
   },
   {
     "standard_id": "FAS 10",
-    "title_en": "Manufacturing contract for custom equipment",
-    "title_ar": "عقد تصنيع لمعدات مخصصة",
-    "scenario_en": "Al Salam Bank entered into an Istisna'a contract with a manufacturer:\n- Contract value: $1,000,000 for custom manufacturing equipment\n- Payment schedule: 30% upfront, 30% halfway, 40% upon delivery\n- Manufacturing period: 8 months\nHow should the bank record this transaction?",
-    "scenario_ar": "دخل بنك السلام في عقد استصناع مع مصنّع:\n- قيمة العقد: 1,000,000 دولار لمعدات تصنيع مخصصة\n- جدول الدفع: 30٪ مقدمًا، 30٪ في المنتصف، 40٪ عند التسليم\n- فترة التصنيع: 8 أشهر\nكيف يجب على البنك تسجيل هذه المعاملة؟"
+    "title_en": "Istisna'a Contract for Airport Terminal Construction",
+    "title_ar": "عقد استصناع لبناء محطة مطار",
+    "scenario_en": "Ehsan Islamic Bank entered into a two-year Istisna contract to construct an airport terminal commencing January 2023. Material and wages cost of USD 800,000 were estimated at the time of concluding the contract. Sales price of USD 1 million was agreed between the IFI and final purchaser. Construction was completed at the end of year 2024. Handover to final purchaser and 100% billings were also made at the end of year 2024.\n\nThe following payment schedule was agreed with the client:\n- 2023: 0%\n- 2024: 0%\n- 2025: 70%\n- 2026: 30%\n\nThe IFI recognizes revenue based on the percentage of completion method. How should the IFI account for this Istisna'a contract from 2023 to 2026?",
+    "scenario_ar": "دخل بنك إحسان الإسلامي في عقد استصناع لمدة عامين لبناء محطة مطار ابتداءً من يناير 2023. تم تقدير تكلفة المواد والأجور بمبلغ 800,000 دولار أمريكي وقت إبرام العقد. تم الاتفاق على سعر بيع قدره مليون دولار أمريكي بين المؤسسة المالية الإسلامية والمشتري النهائي. تم الانتهاء من البناء في نهاية عام 2024. كما تم التسليم للمشتري النهائي وإصدار فواتير بنسبة 100٪ في نهاية عام 2024.\n\nتم الاتفاق على جدول الدفع التالي مع العميل:\n- 2023: 0٪\n- 2024: 0٪\n- 2025: 70٪\n- 2026: 30٪\n\nتعترف المؤسسة المالية الإسلامية بالإيرادات على أساس طريقة نسبة الإنجاز. كيف ينبغي للمؤسسة المالية الإسلامية أن تحاسب عن عقد الاستصناع هذا من 2023 إلى 2026؟"
   },
   {
     "standard_id": "FAS 28",
-    "title_en": "Leasing equipment with ownership transfer",
-    "title_ar": "تأجير معدات مع نقل الملكية",
-    "scenario_en": "Alpha Islamic Bank entered into an Ijarah MBT for a generator:\n- Generator cost: $450,000\n- Import tax and freight: $42,000\n- Lease term: 2 years\n- Annual rental: $300,000\n- Purchase option at end: $3,000\nHow should Alpha Bank record this transaction?",
-    "scenario_ar": "دخل بنك ألفا الإسلامي في إجارة منتهية بالتمليك لمولد كهربائي:\n- تكلفة المولد: 450,000 دولار\n- ضريبة الاستيراد والشحن: 42,000 دولار\n- مدة الإيجار: سنتان\n- الإيجار السنوي: 300,000 دولار\n- خيار الشراء في النهاية: 3,000 دولار\nكيف يجب على بنك ألفا تسجيل هذه المعاملة؟"
+    "title_en": "Murabaha Financing for Oil Seed Flanker Machine",
+    "title_ar": "تمويل مرابحة لآلة فلانكر لبذور الزيت",
+    "scenario_en": "Ghurair Corporation is the largest producer of Palm Oil in Saudi Arabia. It approached an Islamic Financial Institution (IFI) to finance an Oil Seed flanker machine on the basis of Murabaha on February 1, 2024, with a deferred repayment arrangement. The machine was purchased for SR 150,000 by the IFI on March 1, 2024. The IFI also incurred SR 15,000 for transportation, takaful, and other expenses to bring the asset to the present condition and location. The machine was sold onwards on the same date on a credit period of 5 months. The selling price was agreed at SR 175,000, which Ghurair Corporation agreed to repay on July 31, 2024.\n\nHow should the IFI account for:\n1. Purchase of the Oil Seed Flanker Machine\n2. Sale under Deferred Payment Murabaha Contract\n3. Recording of Deferred Murabaha Profit\n4. Murabaha Profit Accruals at month-end\n5. Receipt of Cash Proceeds",
+    "scenario_ar": "شركة الغرير هي أكبر منتج لزيت النخيل في المملكة العربية السعودية. تقدمت إلى مؤسسة مالية إسلامية لتمويل آلة فلانكر لبذور الزيت على أساس المرابحة في 1 فبراير 2024، مع ترتيب سداد مؤجل. تم شراء الآلة بمبلغ 150,000 ريال سعودي من قبل المؤسسة المالية الإسلامية في 1 مارس 2024. كما تكبدت المؤسسة المالية الإسلامية 15,000 ريال سعودي للنقل والتكافل والمصاريف الأخرى لإحضار الأصل إلى الحالة والموقع الحاليين. تم بيع الآلة في نفس التاريخ على فترة ائتمان مدتها 5 أشهر. تم الاتفاق على سعر البيع بمبلغ 175,000 ريال سعودي، والذي وافقت شركة الغرير على سداده في 31 يوليو 2024.\n\nكيف ينبغي للمؤسسة المالية الإسلامية أن تحاسب عن:\n1. شراء آلة فلانكر لبذور الزيت\n2. البيع بموجب عقد مرابحة بالدفع المؤجل\n3. تسجيل ربح المرابحة المؤجل\n4. استحقاقات ربح المرابحة في نهاية الشهر\n5. استلام العائدات النقدية"
   },
   {
     "standard_id": "FAS 32",
-    "title_en": "Investment agency relationship",
-    "title_ar": "علاقة وكالة استثمار",
-    "scenario_en": "Qatar Islamic Bank accepted $10M from investors on Wakala basis:\n- Expected profit rate: 5% annually\n- Bank's agency fee: 20% of profits above 5%\n- Investment term: 1 year\n- Actual return achieved: 7%\nHow should this be accounted for?",
-    "scenario_ar": "قبل بنك قطر الإسلامي 10 مليون دولار من المستثمرين على أساس الوكالة:\n- معدل الربح المتوقع: 5٪ سنويًا\n- رسوم وكالة البنك: 20٪ من الأرباح فوق 5٪\n- مدة الاستثمار: سنة واحدة\n- العائد الفعلي المحقق: 7٪\nكيف يجب المحاسبة عن ذلك؟"
+    "title_en": "Ijarah Financing for Aircraft Leasing",
+    "title_ar": "تمويل إجارة لتأجير طائرة",
+    "scenario_en": "Tabarak Islamic Financing Corporation (TIFC) leases a small aircraft to Bey Flying Corp. (BFC) on June 23, 2023. TIFC sources the aircraft from an aircraft manufacturer for USD 300,000. The term of the Ijarah is ten years, and BFC is liable to make rental payments of USD 33,000 every year. To transport the aircraft to the premises of BFC, it pays direct costs of USD 1,000. After ten years, BFC is expected to incur dismantling costs of USD 4,000.\n\nHow should TIFC and BFC account for:\n1. The initial recognition of the right-of-use asset and Ijarah liability\n2. The calculation of the right-of-use asset cost\n3. The calculation of the gross Ijarah liability\n4. The calculation of deferred Ijarah cost",
+    "scenario_ar": "تؤجر شركة تبارك للتمويل الإسلامي (TIFC) طائرة صغيرة إلى شركة بي للطيران (BFC) في 23 يونيو 2023. تحصل TIFC على الطائرة من مصنع طائرات بمبلغ 300,000 دولار أمريكي. مدة الإجارة عشر سنوات، وتلتزم BFC بدفع إيجار قدره 33,000 دولار أمريكي كل عام. لنقل الطائرة إلى مقر BFC، تدفع تكاليف مباشرة قدرها 1,000 دولار أمريكي. بعد عشر سنوات، من المتوقع أن تتكبد BFC تكاليف تفكيك قدرها 4,000 دولار أمريكي.\n\nكيف ينبغي لـ TIFC و BFC أن يحاسبا عن:\n1. الاعتراف الأولي بأصل حق الاستخدام والتزام الإجارة\n2. حساب تكلفة أصل حق الاستخدام\n3. حساب إجمالي التزام الإجارة\n4. حساب تكلفة الإجارة المؤجلة"
   }
 ]
