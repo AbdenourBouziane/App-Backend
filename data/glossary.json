@@ -1,0 +1,27 @@
+[
+  {
+    "term": "Ijarah",
+    "definition_en": "A lease contract where one party transfers the right to use an asset to another party for an agreed period at an agreed consideration.",
+    "definition_ar": "عقد إيجار حيث ينقل طرف حق استخدام أصل إلى طرف آخر لفترة متفق عليها بمقابل متفق عليه."
+  },
+  {
+    "term": "Murabaha",
+    "definition_en": "A sales contract where the seller expressly mentions the cost incurred on the sold commodity and sells it to another person by adding some profit.",
+    "definition_ar": "عقد بيع حيث يذكر البائع صراحةً التكلفة التي تكبدها على السلعة المباعة ويبيعها لشخص آخر بإضافة بعض الربح."
+  },
+  {
+    "term": "Wakala",
+    "definition_en": "An agency contract where one party appoints another party to act on their behalf for a specific task.",
+    "definition_ar": "عقد وكالة حيث يعين طرف طرفًا آخر للتصرف نيابة عنه لمهمة محددة."
+  },
+  {
+    "term": "Istisna'a",
+    "definition_en": "A contract of sale where a commodity is transacted before it comes into existence, requiring the manufacturer to make it with payment from the buyer either in advance or by installments.",
+    "definition_ar": "عقد بيع حيث يتم تداول سلعة قبل وجودها، مما يتطلب من المصنع صنعها مع دفع المشتري إما مقدمًا أو على أقساط."
+  },
+  {
+    "term": "Sukuk",
+    "definition_en": "Islamic financial certificates, similar to bonds, that comply with Shariah law.",
+    "definition_ar": "شهادات مالية إسلامية، مشابهة للسندات، تتوافق مع الشريعة الإسلامية."
+  }
+]

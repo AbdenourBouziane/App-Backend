@@ -1,0 +1,37 @@
+[
+  {
+    "id": "FAS 4",
+    "title_en": "Currency Translation",
+    "title_ar": "ترجمة العملات",
+    "description_en": "Standard for recording foreign currency transactions and translating financial statements.",
+    "description_ar": "معيار لتسجيل معاملات العملات الأجنبية وترجمة البيانات المالية."
+  },
+  {
+    "id": "FAS 7",
+    "title_en": "Investments in Real Estate",
+    "title_ar": "الاستثمارات العقارية",
+    "description_en": "Standard for accounting for investments in properties for rental or capital appreciation.",
+    "description_ar": "معيار محاسبة الاستثمارات في العقارات للتأجير أو زيادة رأس المال."
+  },
+  {
+    "id": "FAS 10",
+    "title_en": "Istisna'a and Parallel Istisna'a",
+    "title_ar": "الاستصناع والاستصناع الموازي",
+    "description_en": "Standard for manufacturing contracts where payment is made in installments.",
+    "description_ar": "معيار لعقود التصنيع حيث يتم الدفع على أقساط."
+  },
+  {
+    "id": "FAS 28",
+    "title_en": "Ijarah and Ijarah Muntahia Bittamleek",
+    "title_ar": "الإجارة والإجارة المنتهية بالتمليك",
+    "description_en": "Standard for lease agreements and leases ending with ownership transfer.",
+    "description_ar": "معيار لاتفاقيات الإيجار والإيجارات المنتهية بنقل الملكية."
+  },
+  {
+    "id": "FAS 32",
+    "title_en": "Investment Agency (Al-Wakala Bi Al-Istithmar)",
+    "title_ar": "وكالة الاستثمار (الوكالة بالاستثمار)",
+    "description_en": "Standard for investment agency relationships between investors and agents.",
+    "description_ar": "معيار لعلاقات وكالة الاستثمار بين المستثمرين والوكلاء."
+  }
+]
